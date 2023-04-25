@@ -28,11 +28,11 @@
 ---
 
 ### :man_technologist: About Me :
-I am a AI enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am an AI enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Currently, I’m working as a consultant to build advanced analytical solutions & tools to solve pervasive business problems
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical Content Writing and MLOps.
 
 - :zap: In my free time, I solve problems on LeetCode, compete on Kaggle and read articles about cutting-edge AI applications.
 
