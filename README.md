@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/grlkPWm6vpdRqZqMQV/giphy.gif" width="300"/>
 </div>
 
-<div id="badges" align='center>
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ranganathbogolu/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -16,7 +16,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=rgiitian&style=flat-square&color=blue" alt="" align ="center"/>
+<img src="https://komarev.com/ghpvc/?username=rgiitian&style=flat-square&color=blue" alt="" align="center"/>
 
 
 <h1>
